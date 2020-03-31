@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 中朝故事
-#+DATE: 2020-03-31 11:31:46.227931
+#+DATE: 2020-03-31 11:31:46.272325
 #+PROPERTY: ID KR3l0018
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR3l0018_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -144,7 +144,7 @@
 　　盧耽自進士登科後出將入相四十九年不曽稱前衘¶
 皆從此任受於彼宰相堂飯常人多不敢食鄭延昌在¶
 <pb:KR3l0018_WYG_001-8a>¶
-相位一日本𠫊欲食次其弟延濟來遂與之同食延濟¶
+相位一日本廳欲食次其弟延濟來遂與之同食延濟¶
 手擎餺飥及數口椀自手中墜地遂中風痺一夕而卒¶
 太常卿初上寺内以雅樂全作而呈之少卿初上以半¶
 呈之¶
